@@ -28,8 +28,3 @@ Kaggle Credit Card Fraud Detection Dataset
 - Precision
 - Recall
 - F1-score
-
-## ▶️ Run
-```bash
-pip install -r requirements.txt
-jupyter notebook
